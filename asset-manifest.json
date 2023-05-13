@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.31d6cfe0.css",
+    "main.js": "/static/js/main.1ed48240.js",
+    "static/js/787.31f43b61.chunk.js": "/static/js/787.31f43b61.chunk.js",
+    "static/media/675313121416074.jpg": "/static/media/675313121416074.7d5fd8757d72c252ab29.jpg",
+    "static/media/logoOLX.svg": "/static/media/logoOLX.e78675f8914989d270a7026dfab8625a.svg",
+    "static/media/topbar03.svg": "/static/media/topbar03.2d45bd2b97b47fe7951eeaea783c3834.svg",
+    "static/media/topbar02.svg": "/static/media/topbar02.b54cbce771f1b6e617c0086a33420f39.svg",
+    "index.html": "/index.html",
+    "static/media/topbar01.svg": "/static/media/topbar01.f81e0dac853b6ab67d418a9d41228734.svg",
+    "static/media/topbar04.svg": "/static/media/topbar04.bef6660d79a258dd88986088fe5287e8.svg",
+    "main.1ed48240.js.map": "/static/js/main.1ed48240.js.map",
+    "787.31f43b61.chunk.js.map": "/static/js/787.31f43b61.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.1ed48240.js"
+  ]
+}
